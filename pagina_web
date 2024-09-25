@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tennis World</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--
+    PARTICIPANTES:
+    HUANCA CARDOZO ADRIAN GUSTAVO
+    MAMANI MACHACA JUAN JOSE-->
+    <header>
+        <h1>Tennis World</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#historia">Historia</a></li>
+                <li><a href="#contactos">Contactos</a></li>
+                <li><a href="#mas">Más</a></li>
+                <li><a href="#nosotros">Nosotros</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    
+    <main>
+        
+        <section id="inicio">
+            <h2>Inicio</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+            <div class="box">
+                <img src="img/images (1).jpg (1).jpg" alt="Tennis Ball">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+            </div>
+            <p>Tennis World es una comunidad de apasionados del tenis que busca promover el deporte y fomentar la unión entre los jugadores y aficionados.</p>
+            <p>En nuestra página, podrás encontrar información sobre torneos, noticias, y mucho más.</p>
+        </section>
+
+
+        <section id="historia">
+            <h2>Historia del Tenis</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+            <div class="box">
+                <img src="img/images (1).jpg" alt="Tennis History">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+            </div>
+            <p>El tenis tiene una rica historia que se remonta al siglo XII en Francia. Desde entonces, ha evolucionado hasta convertirse en uno de los deportes más populares del mundo.</p>
+        </section>
+
+        
+        <section id="contactos">
+            <h2>Contactos</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+            <div class="box">
+                <h3>Dirección</h3>
+                <p>Calle 123, Ciudad, País</p>
+            </div>
+            <div class="box">
+                <h3>Teléfono</h3>
+                <p>+123 456 7890</p>
+            </div>
+            <div class="box">
+                <h3>Correo Electrónico</h3>
+                <p><a href="mailto:info@tennisworld.com">info@tennisworld.com</a></p>
+            </div>
+        </section>
+
+        
+        <section id="mas">
+            <h2>Más</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+            <div class="box">
+                <h3>Torneos</h3>
+                <ul>
+                    <li>Torneo 1</li>
+                    <li>Torneo 2</li>
+                    <li>Torneo 3</li>
+                </ul>
+            </div>
+            <div class="box">
+                <h3>Noticias</h3>
+                <ul>
+                    <li>Noticia 1</li>
+                    <li>Noticia 2</li>
+                    <li>Noticia 3</li>
+                </ul>
+            </div>
+        </section>
+
+        
+        <section id="nosotros">
+            <h2>Nosotros</h2>
+            <p>En Tennis World, somos un equipo de profesionales y aficionados dedicados al crecimiento del tenis como deporte y estilo de vida. Nos apasiona compartir nuestro conocimiento y promover eventos que impulsen el talento y la participación de jugadores a nivel global.</p>
+            <div class="box">
+                <img src="img/images (1).jpg" alt="Team">
+                <p>Nuestro equipo está formado por expertos en distintas áreas del tenis: entrenadores, organizadores de torneos, periodistas deportivos, y más. ¡Únete a nuestra comunidad!</p>
+            </div>
+        </section>
+    </main>
+
+    
+    <footer>
+        <p>&copy; 2024 Tennis World. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
